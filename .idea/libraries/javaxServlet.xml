@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaxServlet">
+    <CLASSES>
+      <root url="jar://P:/LibertyJava/javaxServlet/javax.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
